@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проекты/Platforma-exe.md",
+                "file": "Проекты/Проекты.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "556d880a95ebf800",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5370dd3a8e7be581",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проекты/Platforma-exe.md",
+                "file": "Проекты/Проекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проекты/Platforma-exe.md",
+                "file": "Проекты/Проекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проекты/Platforma-exe.md"
+                "file": "Проекты/Проекты.md"
               }
             }
           }
@@ -146,19 +154,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "31f81e2df96cb814",
+  "active": "1d36c5c3e4cd8a0d",
   "lastOpenFiles": [
-    "Сотрудники/Добрыня Авдюшин.md",
+    "Проекты/Образовательные/Platforma-exe.md",
+    "Проекты/Проекты.md",
+    "Проекты/Разработка ботов/Telegram боты.md",
+    "Проекты/Разработка ботов",
+    "Проекты/Образовательные",
     "Сотрудники/Павел Кудрявцев.md",
     "Сотрудники/Никита Львов.md",
-    "Проекты/Platforma-exe.md",
+    "Сотрудники/Добрыня Авдюшин.md",
+    "Сотрудники/Глеб Чепрасов.md",
+    "assets/templates/Сотрудник.md",
     "assets/img/avatars/Добрыня_Авдюшин.png",
     "assets/img/projects/platforma-exe.png",
     "assets/img/projects",
     "Проекты",
     "assets/img/avatars/Павел_Кудрявцев.png",
-    "Сотрудники/Глеб Чепрасов.md",
-    "assets/templates/Сотрудник.md",
     "assets/img/avatars/Глеб_Чепрасов.png",
     "Сотрудники/ddd.md",
     "assets/icons/person.png",
